@@ -1,0 +1,4 @@
+# Teszt: egyszeri SINGLE lövés az elsődleges torpedótárból
+GT4500,5,0,5,0
+TORPEDO,SINGLE
+EXIT

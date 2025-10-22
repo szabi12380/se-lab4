@@ -1,0 +1,4 @@
+# Teszt: ALL lövés mindkét torpedótárból
+GT4500,3,0,3,0
+TORPEDO,ALL
+EXIT

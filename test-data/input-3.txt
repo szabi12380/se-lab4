@@ -1,0 +1,4 @@
+# Teszt: PRIMARY fail rate = 1, SECONDARY normális
+GT4500,1,1,1,0
+TORPEDO,SINGLE
+EXIT
