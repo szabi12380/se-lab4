@@ -1,0 +1,4 @@
+# Teszt 10: ALL mód, secondary tár mindig hibás
+GT4500,3,0,3,1.0
+TORPEDO,ALL
+EXIT

@@ -1,0 +1,6 @@
+# Teszt 9: alternálás, de a következő tár üres
+GT4500,1,0,2,0
+TORPEDO,SINGLE
+TORPEDO,SINGLE
+TORPEDO,SINGLE
+EXIT
