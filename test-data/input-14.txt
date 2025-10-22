@@ -1,0 +1,5 @@
+# Teszt 14: SECONDARY üres, így a hajó kétszer egymás után a PRIMARY-ból lő
+GT4500,3,0,0,0
+TORPEDO,SINGLE
+TORPEDO,SINGLE
+EXIT
