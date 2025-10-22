@@ -1,0 +1,8 @@
+# Teszt 8: Több egymás utáni lövés SINGLE módban, hogy váltogassa a tárakat
+GT4500,2,0,2,0
+TORPEDO,SINGLE
+TORPEDO,SINGLE
+TORPEDO,SINGLE
+TORPEDO,SINGLE
+TORPEDO,SINGLE
+EXIT

@@ -1,0 +1,4 @@
+# Teszt 5: a primary tár üres, de a secondary nem
+GT4500,0,0,3,0
+TORPEDO,SINGLE
+EXIT

@@ -1,0 +1,4 @@
+# Teszt 7: ALL mód, mindkét torpedótár hibás
+GT4500,5,1.0,5,1.0
+TORPEDO,ALL
+EXIT
