@@ -1,0 +1,3 @@
+# Primary fails; SINGLE must not try secondary
+GT4500,1,1,1,0
+TORPEDO,SINGLE

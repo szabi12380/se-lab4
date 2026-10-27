@@ -1,0 +1,5 @@
+# Alternate stores, including after a failed firing
+GT4500,2,0,1,1
+TORPEDO,SINGLE
+TORPEDO,SINGLE
+TORPEDO,SINGLE
