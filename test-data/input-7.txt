@@ -1,0 +1,5 @@
+# ALL succeeds through primary; secondary fails
+# SINGLE subsequently falls back to secondary
+GT4500,1,0,1,1
+TORPEDO,ALL
+TORPEDO,SINGLE
